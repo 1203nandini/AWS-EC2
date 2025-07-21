@@ -1,5 +1,6 @@
-🌐 Nandini – CloudFolio
-📄 Overview
+                                                                    🌐 Nandini CloudFolio
+
+
 Nandini CloudFolio is a personal portfolio website hosted on AWS EC2 and Amazon S3. This project showcases my skills in cloud computing, web development, and basic AWS infrastructure. The goal was to deploy a cost-effective, scalable, static portfolio using cloud-native tools. This was taught in my summer placement class. This project helped me to understand the fundamentals of cloud hosting by deploying a static portfolio website using AWS EC2 and Amazon S3. I gained hands-on experience in setting up cloud infrastructure, configuring security, and managing static web content. It strengthened my skills in cloud computing, frontend development, and practical deployment using real-world tools.
 
 ⚙️ Tech Stack
@@ -37,7 +38,7 @@ Enabled static website hosting and set the index document
 
 Accessed the live website through the S3 endpoint
 
-🌍 Live Website
+
 🔗 [Live Website](http://myprojecr.s3-website.eu-north-1.amazonaws.com)
 
 
